@@ -1,0 +1,20 @@
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.search-input{
+    margin: 0 550px;
+    width: 200px;
+    padding: 10px;
+}
+
+.sub-wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
